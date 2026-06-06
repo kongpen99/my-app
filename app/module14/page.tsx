@@ -51,10 +51,6 @@ export default function caLculatePage() {
                     </div>
                 )}
             </div>
-            <div>
-                <h1>tesiiit</h1>
-            </div>
-
         </div>
 
     )
